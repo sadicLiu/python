@@ -1,0 +1,3 @@
+2020-02-10 20:01:07,414 - log - INFO - Start print log
+2020-02-10 20:01:07,414 - log - WARNING - Something maybe fail.
+2020-02-10 20:01:07,414 - log - INFO - Finish
