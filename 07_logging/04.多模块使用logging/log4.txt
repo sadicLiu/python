@@ -1,0 +1,9 @@
+2020-02-10 22:16:37,653 - mainModule - INFO - creating an instance of subModule.subModuleClass
+2020-02-10 22:16:37,653 - mainModule.sub.module - INFO - creating an instance in SubModuleClass
+2020-02-10 22:16:37,653 - mainModule - INFO - calling subModule.subModuleClass.doSomething
+2020-02-10 22:16:37,653 - mainModule.sub.module - INFO - do something in SubModule
+2020-02-10 22:16:37,653 - mainModule.sub.module - INFO - finish something in SubModuleClass
+2020-02-10 22:16:37,653 - mainModule - INFO - done with  subModule.subModuleClass.doSomething
+2020-02-10 22:16:37,653 - mainModule - INFO - calling subModule.some_function
+2020-02-10 22:16:37,653 - mainModule.sub - INFO - call function some_function
+2020-02-10 22:16:37,653 - mainModule - INFO - done with subModule.some_function
