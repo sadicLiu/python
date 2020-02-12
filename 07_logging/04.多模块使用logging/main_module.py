@@ -4,6 +4,7 @@ import sub_module
 logger = logging.getLogger("mainModule")
 logger.setLevel(level=logging.INFO)
 formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+# formatter = logging.Formatter('%(message)s')
 
 file_handler = logging.FileHandler("log4.txt")
 file_handler.setLevel(logging.INFO)

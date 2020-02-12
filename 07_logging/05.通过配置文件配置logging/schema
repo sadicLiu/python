@@ -1,0 +1,6 @@
+version: 值必须是1
+formatters: 定义用到的所有formatter
+filters: 和formatters用法差不多
+handlers: 定义所有的handler
+root: root logger的配置
+loggers: 使用logging.getLogger()方法可以获取到这里配置的logger
